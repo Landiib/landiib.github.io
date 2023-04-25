@@ -11,8 +11,9 @@
 
  Qeshtu ka mu msu mi bo kejt senet dhe tana rri te shpíja punoj! <br>
  Mu kan dhe gruja msohet qesi sene, naj kish thy bashk!<br>
-<button onclick=window.location.href="https://pbs.twimg.com/media/DL9xAd9X0AAgaRO.jpg">Kliko</button>
 
+  <form action="https://de.w3docs.com/" method="get" target="_blank">
+        <button type="submit">Klicken</button>
 
 </body>
 </html>
